@@ -1,4 +1,4 @@
-Hi there 👋 I'm Randall a Year 2 CS student @ NUS! 
+## **Hi there 👋 I'm Randall a Year 2 CS student @ NUS!**
 
 💻 Currently building:
 
