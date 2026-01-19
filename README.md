@@ -1,16 +1,15 @@
-## Hi there 👋
+Hi there 👋 I'm Randall a Year 2 CS student @ NUS! 
 
-<!--
-**randalliasdanx/randalliasdanx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Currently building:
 
-Here are some ideas to get you started:
+  CallBridge: A mobile app aimed at making phone calls accessible for the deaf and hard-of-hearing community.
+  
+  Chronicle: An AI-powered browser assistant to organize tabs, tasks, and browsing context with intelligent automation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Passionate about:
+
+Learning AI and deep learning concepts, especially in Natural Language Processing (NLP) and Computer Vision.
+
+📫 Reach me at:
+
+Email: randall.koh@u.nus.edu
