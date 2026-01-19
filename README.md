@@ -2,9 +2,9 @@
 
 💻 Currently building:
 
-  CallBridge: A mobile app aimed at making phone calls accessible for the deaf and hard-of-hearing community.
+  **CallBridge**: A mobile app aimed at making phone calls accessible for the deaf and hard-of-hearing community.
   
-  Chronicle: An AI-powered browser assistant to organize tabs, tasks, and browsing context with intelligent automation.
+  **Chronicle**: An AI-powered browser assistant to organize tabs, tasks, and browsing context with intelligent automation.
 
 🌱 Passionate about:
 
