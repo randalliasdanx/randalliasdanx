@@ -8,7 +8,7 @@
 
 🌱 Passionate about:
 
-Learning AI and deep learning concepts, especially in Natural Language Processing (NLP) and Computer Vision.
+Learning AI and deep learning concepts, especially in Natural Language Processing (NLP) and Computer Vision. Building random projects that might help people!
 
 📫 Reach me at:
 
